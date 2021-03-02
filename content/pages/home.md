@@ -2,7 +2,7 @@
 title: Homepage
 date: 2019-03-17T19:31:20.591Z
 hero_title: Example Hero title
-hero_description: Example hero description. 
+hero_description: Example hero description. Lorem ipsum...
 content_list:
   - description: Lorem ipsum 1 dolor sit amet, consectetur adipiscing elit
     name: Item One
