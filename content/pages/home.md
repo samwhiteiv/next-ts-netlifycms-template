@@ -3,6 +3,7 @@ title: Homepage
 date: 2019-03-17T19:31:20.591Z
 hero_title: Example Hero title
 hero_description: Example hero description. Lorem ipsum...
+hero_image: '/assets/img/neovim-configure.png'
 content_list:
   - description: Lorem ipsum 1 dolor sit amet, consectetur adipiscing elit
     name: Item One
